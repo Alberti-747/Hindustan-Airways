@@ -1,2 +1,2 @@
 # Hindustan-Airways
-Hindustan Airways GeoFS VA for LS
+Hindustan Airways GeoFS VA for Livery Selector.
