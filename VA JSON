@@ -1,0 +1,71 @@
+{
+    "name": "Hindustan Airways",
+    "color": "white",
+    "bgcolor": "blue",
+    "aircrafts": {
+        "24": {
+            "name": "Airbus A350",
+            "liveries": [
+              {
+                "name": "Standard livery",
+                "texture": [
+                    "https://www.geo-fs.com/models/aircraft/premium/a350/specular.jpg",
+                    "https://i.ibb.co/mCVjDGfx/A350.png"
+                 ],
+                 "credits": "𝑵𝒊𝒄𝒌𝒚"
+                },
+                {
+                "name": "Special livery",
+                "texture": [
+                    "https://www.geo-fs.com/models/aircraft/premium/a350/specular.jpg",
+                    "https://i.ibb.co/9kmHvtNx/Adobe-Express-file.jpg"
+                 ],
+                 "credits": "𝑵𝒊𝒄𝒌𝒚"
+                }
+            ],
+            "labels": [
+                "Specular Shader",
+                "Texture"
+            ]
+        },
+       "4631": {
+            "name": "Airbus a330-900neo",
+            "liveries": [
+                {
+                    "name": "Standard livery",          
+                    "texture": [       
+                        "https://i.ibb.co/6cnm1qvP/Adobe-Express-file-3.png" 
+                    ],
+                    "credits": "𝑵𝒊𝒄𝒌𝒚"              
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "2769": {
+            "name": "Boeing b737-MAX8",
+            "liveries": [
+              {
+                "name": "Special livery",
+                "texture": ["https://i.ibb.co/d4nnrLPk/737-max.jpg"]
+              }
+            ],
+            "labels": [
+                "Texture"
+            ],
+          "credits": "𝑵𝒊𝒄𝒌𝒚"
+        },
+        "25": {
+            "name": "Boeing b777-300ER",
+            "liveries": [
+                {
+                    "name": "standard livery",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                      
+                        "https://i.ibb.co/nNvdqbjG/777-300er-1-1.png"
+                    ],
+                    "credits": "𝑵𝒊𝒄𝒌𝒚"
+                }]
+    }}}
