@@ -10,7 +10,7 @@
                 "name": "Standard livery",
                 "texture": [
                     "https://www.geo-fs.com/models/aircraft/premium/a350/specular.jpg",
-                    "https://i.ibb.co/mCVjDGfx/A350.png"
+                    "https://i.ibb.co/Fbns6XbC/A350-1.png"
                  ],
                  "credits": "𝑵𝒊𝒄𝒌𝒚"
                 },
@@ -43,18 +43,20 @@
                 "Texture"
             ]
         },
-        "2769": {
+         "2769": {
             "name": "Boeing b737-MAX8",
             "liveries": [
               {
-                "name": "Special livery",
-                "texture": ["https://i.ibb.co/d4nnrLPk/737-max.jpg"]
+                "name": "special livery",
+                "texture": [
+                  "https://i.ibb.co/j9Y09c4R/737-max.png"
+                ],
+                "credits": "𝑵𝒊𝒄𝒌𝒚"
               }
             ],
             "labels": [
                 "Texture"
-            ],
-          "credits": "𝑵𝒊𝒄𝒌𝒚"
+            ]
         },
         "25": {
             "name": "Boeing b777-300ER",
@@ -62,8 +64,7 @@
                 {
                     "name": "standard livery",
                     "texture": [
-                        "/models/aircraft/premium/777_300/specular_0.jpg",
-                      
+                        "/models/aircraft/premium/777_300/specular_0.jpg"
                         "https://i.ibb.co/nNvdqbjG/777-300er-1-1.png"
                     ],
                     "credits": "𝑵𝒊𝒄𝒌𝒚"
